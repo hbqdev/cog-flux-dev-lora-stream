@@ -17,7 +17,7 @@ To run a prediction:
 
     cog predict -i prompt="a beautiful castle frstingln illustration" -i extra_lora="alvdansen/frosting_lane_flux"
 
-![output](output.png)
+![output](https://github.com/lucataco/cog-flux-dev-lora/blob/master/output.png)
 
 
 ## Tests
